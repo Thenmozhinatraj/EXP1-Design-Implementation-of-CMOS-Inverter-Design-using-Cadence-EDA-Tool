@@ -47,7 +47,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-[WhatsApp Image 2024-09-03 at 12 59 24_5106f062](https://github.com/user-attachments/assets/acd96018-03b9-4892-b666-ff51d96a1427)
+![WhatsApp Image 2024-09-03 at 12 59 24_5106f062](https://github.com/user-attachments/assets/acd96018-03b9-4892-b666-ff51d96a1427)
 
 
 
